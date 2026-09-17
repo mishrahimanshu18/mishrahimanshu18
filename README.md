@@ -11,7 +11,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-mishra-965b922aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/himanshumishra18)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mishrahimanshu18)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-7c3aed?style=for-the-badge&logo=vercel)](https://himanshu-portfolio-omega-lac.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mishrahimanshu09695@gmail.com)
